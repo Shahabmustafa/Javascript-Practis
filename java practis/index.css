@@ -1,0 +1,28 @@
+#session{
+    width: 20%;
+    height: 100v;
+}
+
+.part1{
+    background-color:red ;
+}
+
+.part2{
+    background-color: green;
+}
+
+.part3{
+    background-color: yellow;
+}
+
+.part4{
+    background-color: blue;
+}
+
+.part5{
+    background-color: pink;
+}
+
+.part6{
+    background-color: palegreen;
+}
